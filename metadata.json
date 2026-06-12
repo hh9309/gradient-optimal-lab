@@ -1,0 +1,6 @@
+{
+  "name": "梯度优化求解与美学可视化 Webapp",
+  "description": "基于微积分几何美学的交互式梯度优化求解器，支持2D等高线、3D空间流形、自适应多优化器平行赛跑，引入泰勒局部二阶Paraboloid逼近，并基于Gemini 3.5 AI输出地貌及调参微调洞察。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
