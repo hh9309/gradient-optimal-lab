@@ -9,7 +9,7 @@ const __dirname = path.dirname(__filename);
 
 export default defineConfig(() => {
   return {
-    base: '/gradient-optimization-lab/',
+    base: '/gradient-optimal-lab/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
