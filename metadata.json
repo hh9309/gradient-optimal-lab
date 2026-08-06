@@ -1,0 +1,6 @@
+{
+  "name": "梯度优化与最优化理论实验室",
+  "description": "交互式梯度优化与最优化理论实验室：包含3D/2D损失曲面沙盒、算法轨迹对比、最优化理论推导、PyTorch代码引擎与AI病态诊断。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
